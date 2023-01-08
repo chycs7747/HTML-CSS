@@ -1,0 +1,52 @@
+h1, h2, p {
+    text-align: center;
+}
+body {
+    background-color: #FFDAAB;
+}
+
+.main-container {
+    display: inline-block;
+    background-color:#FFDFB0;
+}
+
+.color-brown1 {
+    background-color: #FFDFB0;
+}
+
+.color-brown2 {
+    background-color:#B49178 ;
+}
+
+.flex-container1 {
+    display: flex;
+    flex-wrap: wrap;     
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container2 {
+    display: flex;
+    flex-wrap: wrap;     
+    justify-content: space-around;
+}
+
+.poster-block {
+    width: 250px;
+}
+
+.fit-picture {
+    width: 100%;
+}
+
+.text-align {
+    text-align: start;
+    background-color: wheat;
+}
+
+.text-align-margin-start {
+    display: inline-block;
+    text-align: start;
+    margin-inline-start: 100px;
+}
+
